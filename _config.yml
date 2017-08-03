@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 name: fragment1
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
